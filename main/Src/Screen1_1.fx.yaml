@@ -1,10 +1,9 @@
 Screen1_1 As screen:
-    Fill: =RGBA(255, 255, 255, 1)
-    OnVisible: =
+  Fill: =RGBA(255, 255, 255, 1)
+  OnVisible: =
 
-    Label2_1 As label:
-        Text: ="Text Screen 2"
-        X: =562
-        Y: =332
-        ZIndex: =2
-
+  Label2_1 As label:
+    Text: ="Text Screen edited from git"
+    X: =562
+    Y: =332
+    ZIndex: =2
