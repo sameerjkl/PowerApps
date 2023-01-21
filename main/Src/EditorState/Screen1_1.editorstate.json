@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Label2": {
+    "Label2_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Live",
@@ -59,7 +59,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Label2",
+      "Name": "Label2_1",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -262,7 +262,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "Screen1": {
+    "Screen1_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -290,7 +290,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Screen1",
+      "Name": "Screen1_1",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -344,5 +344,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Screen1"
+  "TopParentName": "Screen1_1"
 }

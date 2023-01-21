@@ -1,5 +1,5 @@
 App As appinfo:
     BackEnabled: =false
     OnStart: =
-    StartScreen: =Screen2
+    StartScreen: =
 

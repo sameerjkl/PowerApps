@@ -1,9 +1,9 @@
-Screen1 As screen:
+Screen1_1 As screen:
     Fill: =RGBA(255, 255, 255, 1)
     OnVisible: =
 
-    Label2 As label:
-        Text: ="Text Screen 1 "
+    Label2_1 As label:
+        Text: ="Text Screen 2"
         X: =562
         Y: =332
         ZIndex: =2

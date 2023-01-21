@@ -4,7 +4,6 @@
       "Kind": "default.cds_account_forms",
       "Namespace": "Accounts (Forms)",
       "Values": {
-        " quick create form": "4bf43b08-a77d-eb11-a812-0022486ead3a",
         "Account": "8448b78f-8f42-454e-8e2a-f8196b0419af",
         "account card": "b028db32-3619-48a5-ac51-cf3f947b0ef3",
         "Account Card form": "cccff382-2b92-467e-bf1b-3db179512af8",
